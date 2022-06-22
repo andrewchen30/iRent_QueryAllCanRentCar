@@ -48,7 +48,7 @@ Mako==1.1.2
 MarkupSafe==1.1.1
 matplotlib==3.2.2
 mysqlclient==1.4.6
-numpy==1.19.0
+numpy==1.22.0
 openpyxl==3.0.4
 openvr==1.12.501
 pandas==0.25.1
