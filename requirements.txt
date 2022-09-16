@@ -44,7 +44,7 @@ kiwisolver==1.2.0
 libusb1==1.8
 line-bot-sdk==1.12.1
 lxml==4.4.1
-Mako==1.1.2
+Mako==1.2.2
 MarkupSafe==1.1.1
 matplotlib==3.2.2
 mysqlclient==1.4.6
